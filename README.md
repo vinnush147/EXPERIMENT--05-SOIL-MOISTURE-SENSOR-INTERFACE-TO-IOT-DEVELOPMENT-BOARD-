@@ -108,8 +108,8 @@ GND is the ground pin.
 
 ## STM 32 CUBE PROGRAM :
 
-NAME : STANLEY S 
-REG-NO: 212223110054
+NAME : VINNUSH KUMAR L S
+REG-NO: 212223230244
 
 
 #include "main.h"
